@@ -1,37 +1,37 @@
 # Frequently Asked Questions (FAQ)
 
-Welcome to the FAQ page for PAC. Below are some common questions and their answers.
+Welcome to the FAQ page for IBM&reg; Power&reg; Access Cloud. Below are some common questions and their answers.
 
 ---
 
-## 1. What is PAC?
+## 1. What is IBM&reg; Power&reg; Access Cloud?
 
 **Answer:**  
-PAC (Power Access Cloud) is a self-service portal that offers Open Source developers, ISVs, and customers a catalog of Power Hardware resources for a limited time. It enables users to develop, test, and optimize software on Power Architecture. With PAC, users can browse the catalog and select the desired Power Hardware resources based on their requirements. This self-service model eliminates the need for approvals, reduces manual intervention, and removes infrastructure barriers.
+IBM&reg; Power&reg; Access Cloud is a self-service portal that offers Open Source developers, ISVs, and customers a catalog of Power Hardware resources for a limited time. It enables users to develop, test, and optimize software on Power Architecture. With IBM&reg; Power&reg; Access Cloud, users can browse the catalog and select the desired Power Hardware resources based on their requirements. This self-service model eliminates the need for approvals, reduces manual intervention, and removes infrastructure barriers.
 
 ---
 
-## 2. How do I Register with PAC?
+## 2. How do I Register with IBM&reg; Power&reg; Access Cloud?
 
 **Answer:**  
-Below steps provides the quick guide to get started with PAC
-1. Go to our **[PAC Portal](https://console.developonpower.ibm.com)**.
+Below steps provides the quick guide to get started with IBM&reg; Power&reg; Access Cloud
+1. Go to our **[IBM&reg; Power&reg; Access Cloud Portal](https://console.developonpower.ibm.com)**.
 2. Click the **Register** button.
-3. Fill in the text area on how do you plan to use the PAC service.
-4. Read and Accept our **Power Access Cloud terms and conditions**.
+3. Fill in the text area on how do you plan to use the IBM&reg; Power&reg; Access Cloud service.
+4. Read and Accept our **IBM&reg; Power&reg; Access Cloud terms and conditions**.
 5. Click the **Submit** button.
 
 ---
 
-## 3. How can I Quickly Get Started with PAC?
+## 3. How can I Quickly Get Started with IBM&reg; Power&reg; Access Cloud?
 
 **Answer:**  
-Below steps provides the quick guide on how to get started with PAC
+Below steps provides the quick guide on how to get started with IBM&reg; Power&reg; Access Cloud
 
-1. Go to our **[PAC Portal](https://console.developonpower.ibm.com)**.
+1. Go to our **[IBM&reg; Power&reg; Access Cloud Portal](https://console.developonpower.ibm.com)**.
 2. Click the **Login** button.
 3. Sign in to your account using either **Github** or **IBMid Identity Provider**.
-4. On successful login, you will be landing in to the PAC Dashboard.
+4. On successful login, you will be landing in to the IBM&reg; Power&reg; Access Cloud Dashboard.
 5. Make sure you're part of a group and Status is **Approved** (If still **Pending**, please wait for the admin to approve or reach out to us through email as mentioned in **Support**).
 6. Add a new key under **My keys** section (Please Refer ***Q5*** for more info).
 7. Deploy a service by clicking on **Go to Catalog** button under **My services** and selecting the desired instance type.
@@ -104,7 +104,7 @@ If you're having issues, you can reach out to us at **PowerACL@ibm.com**, or ope
 ## 9. Where can I find the source code?
 
 **Answer:**  
-The source code for PAC is hosted on GitHub. You can access it here: [PAC](https://github.com/PDeXchange/pac) and [PAC-UI](https://github.com/PDeXchange/pac-ui).
+The source code for IBM&reg; Power&reg; Access Cloud is hosted on GitHub. You can access it here: [IBM&reg; Power&reg; Access Cloud](https://github.com/PDeXchange/pac) and [IBM&reg; Power&reg; Access Cloud-UI](https://github.com/PDeXchange/pac-ui).
 
 ---
 
